@@ -1,4 +1,4 @@
-# Redux　と　Redux Toolkit　を使用した計数アプリ
+# 【Redux】と【Redux Toolkit】を使用した計数アプリ
 
 ## このアプリを作成した目的
 - Reduxによるグローバルな状態管理について学ぶため
