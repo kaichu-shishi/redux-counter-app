@@ -8,6 +8,13 @@
   - ③Action Creator
   - ④Slice（StateとReducerとAction Creatorをまとめたもの）
 
+## このアプリの特長
+- カウンターの現在の数をアプリ上のすべてのコンポーネントが共有している点
+- すなわち、アプリ上のすべてのコンポーネントは以下の三つのことが可能である
+  - 1. カウンターの現在の数を取得する
+    2. カウンターの現在の数に変更を加える
+    3. 変更を加えた後の数をグローバルな状態としてセットする
+
 ## 技術面のメモ
 - 「src > redux > counterSlice.js」ではSliceを作成し、その中身のActionとReducerをエクスポートした。
   - その際にRedux ToolkitのcreateSlice関数を用いた。
