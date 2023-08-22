@@ -1,5 +1,9 @@
 # 【Redux】と【Redux Toolkit】を使用した計数アプリ
 
+## アプリURL
+下記のURLからアプリにアクセスできます
+https://redux-counter-app-alpha.vercel.app/
+
 ## このアプリを作成した目的
 - Reduxによるグローバルな状態管理について学ぶため
 - グローバルな状態管理をする際に必要な以下の要素について理解するため
